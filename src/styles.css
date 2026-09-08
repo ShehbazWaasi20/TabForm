@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Tab-Header {
+  display: flex;
+}
+
+.single-tab {
+  padding: 10px;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+.tab-container {
+  border: 1px solid black;
+  height: 100px;
+  padding: 5px;
+}
+
+.error-message {
+  color: red;
+}
